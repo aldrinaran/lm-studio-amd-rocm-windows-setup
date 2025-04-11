@@ -10,6 +10,7 @@ Tested on **RX 7800 XT** using **HIP SDK 6.2.4**, this setup boosted performance
 ## 🧰 Requirements
 
 - AMD GPU (tested: **RX 7800 XT**)
+- [More Requirement info](https://rocm.docs.amd.com/projects/install-on-windows/en/latest/reference/system-requirements.html)
 - [HIP SDK 6.2.4](https://www.amd.com/en/developer/resources/rocm-hub/hip-sdk.html) installed
 - Latest version of [LM Studio](https://lmstudio.ai) (Windows)
 
